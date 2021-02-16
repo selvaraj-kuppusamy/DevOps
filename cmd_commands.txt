@@ -1,0 +1,15 @@
+windows command prompt commands
+
+#change directory
+cd
+
+list the directory content
+dir
+
+clear command prompt
+cls
+
+#Display IP network settings
+ipconfig
+
+
