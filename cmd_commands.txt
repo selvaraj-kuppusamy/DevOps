@@ -12,4 +12,15 @@ cls
 #Display IP network settings
 ipconfig
 
+#Hardware information
+systeminfo
+
+#List Installed Drivers
+driverquery
+
+#check server is Reachable
+ping google.com
+
+List currently tasks
+tasklist
 
