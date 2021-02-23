@@ -24,3 +24,5 @@ ping google.com
 List currently tasks
 tasklist
 
+#Prints the script inside
+echo "windows 10"
