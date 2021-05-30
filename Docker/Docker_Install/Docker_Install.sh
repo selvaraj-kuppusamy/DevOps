@@ -1,5 +1,11 @@
-#!/bin/bash
+#!/bin/sh
 
+#upgrade the system
+echo "Your! system is upgrading!..."
+sudo apt upgrade
+#update the system
+echo "Your! system is updating!..."
+sudo apt update
 echo "Installing Docker Engine on Ubuntu!..."
 echo "Uninstalling old versions!.."
 sudo apt-get remove docker docker-engine docker.io containerd runc
