@@ -1,0 +1,62 @@
+#Docker Commands
+
+#Check Version 
+docker version
+
+#Dispaly Docker images
+docker images
+
+#Download Docker images
+docker run centos
+
+#Remove Docker images
+sudo docker rmi 7a86f8ffcb25 
+
+#Return Image ID
+docker imaegs -q
+
+#docker inspect
+docker inspect jenkins
+
+#Running a Container
+docker run -it centos /bin/bash
+
+#Listing a Container 
+docker ps 
+docker ps -a
+
+#docker history
+docker history centos
+
+#docker top(Container ID)
+docker top 823a838a186b
+
+#docker stop(Container ID)
+docker stop 823a838a186b
+
+#docker start(Container ID)
+docker start 823a838a186b
+
+#docker rm(Container ID)
+docker rm 823a838a186b
+
+#docker stats(Contanier ID)
+docker stats 823a838a186b
+
+#docker attach(Container ID)
+docker image 823a838a186b
+
+#docker pause(Container ID)
+docker pause 823a838a186b
+
+#docker unpause(COntainer ID)
+docker unpause 823a838a186b
+
+#docker kill(Container ID)
+docker kill 823a838a186b
+
+#service docker 
+service docker stop
+service docker start
+
+
