@@ -59,4 +59,8 @@ docker kill 823a838a186b
 service docker stop
 service docker start
 
+#docker run 
+docker run -it --name Webapp redis
+docker run -v /opt/datadir:/var/lib/mysql mysql
+
 
