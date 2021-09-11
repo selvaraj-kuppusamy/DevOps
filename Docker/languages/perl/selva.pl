@@ -1,1 +1,1 @@
-print STDERR "Cloud and Devops!\n";
+print STDERR "Hello, Cloud and Devops!\n";
