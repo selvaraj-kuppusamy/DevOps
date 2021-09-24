@@ -1,5 +1,5 @@
 
-node "host01","host2" {
+node "selvaraj","admin" {
 
    include ntpconfig
 }
