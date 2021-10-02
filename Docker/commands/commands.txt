@@ -2,6 +2,7 @@
 
 #Check Version 
 docker version
+docker -v
 
 #Dispaly Docker images
 docker images
