@@ -1,0 +1,1 @@
+echo "Cloud and DevOps!"
