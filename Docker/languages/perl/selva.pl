@@ -1,1 +1,8 @@
-print STDERR "Hello, Cloud and Devops!\n";
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+print("Cloud and DevOps!");
+
+
