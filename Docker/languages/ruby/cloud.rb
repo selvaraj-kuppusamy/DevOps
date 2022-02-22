@@ -1,1 +1,1 @@
-puts "Hello, Cloud and Devops!!!"
+puts "Hello, Cloud and Devops!"
