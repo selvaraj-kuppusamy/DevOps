@@ -18,7 +18,7 @@ echo "Install open Java Development Kit..."
 sudo apt install default-jdk
 echo "open Java Development kit is sucessfully installed you system!!!"
 #java version
-echo "Checking Jenkins Version!.."
+echo "Checking Java Version!.."
 java --version 
 #insatall jenkins
 echo "Adding Repositories!.."
